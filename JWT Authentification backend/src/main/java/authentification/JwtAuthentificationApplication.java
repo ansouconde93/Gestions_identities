@@ -28,9 +28,9 @@ public class JwtAuthentificationApplication {
 		Utilisateur u1 = new Utilisateur();
 		Utilisateur u2 = new Utilisateur();
 		Utilisateur u3 = new Utilisateur();		
-		u1.setId(null);u1.setNom("fst");u1.setPrenom("paul");u1.setEmail("fst@gmail.com");u1.setMotpasse("1234");		
-		u2.setId(null);u2.setNom("tunis");u2.setPrenom("condé");u2.setEmail("tunis@gmail.com");u2.setMotpasse("1234");	
-		u3.setId(null);u3.setNom("bardo");u3.setPrenom("bardo 2");u3.setEmail("if4@gmail.com");u3.setMotpasse("1234");	
+		u1.setId(null);u1.setNom("test_u1");u1.setPrenom("ppp");u1.setEmail("ppp@gmail.com");u1.setMotpasse("1234");		
+		u2.setId(null);u2.setNom("test_u2");u2.setPrenom("ccc");u2.setEmail("ccc@gmail.com");u2.setMotpasse("1234");	
+		u3.setId(null);u3.setNom("test_u3");u3.setPrenom("bbb");u3.setEmail("bbb@gmail.com");u3.setMotpasse("1234");	
 				
 		Roles r1 =new Roles();
 		Roles r2 =new Roles();
